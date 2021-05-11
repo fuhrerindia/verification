@@ -1,0 +1,1 @@
+<script src="lib/verification/verify.js"></script>
